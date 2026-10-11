@@ -1,0 +1,17 @@
+{
+  "name": "Little Jar of Feelings",
+  "short_name": "Feelings Jar",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff7fb",
+  "theme_color": "#fff7fb",
+  "description": "A little jar of kind words for every feeling.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
